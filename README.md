@@ -1,6 +1,5 @@
 # A QUEUE MANAGEMENT SYSTEM
-It is a system which is used to control queues ,it assists in controlling customer's flow and manages the waiting time.
-it can be used in different serving centers like schools,health centers, in banks etc.
+It is a system used to manage and optimize the flow of customers, tasks, or data in a queue. It helps in reducing wait times, improving efficiency, and enhancing user experience. It may be used in hospitals, banks, retail shops, Airports e.t.c
 
 
 ##THIS PROJECT WAS DONE BY;
